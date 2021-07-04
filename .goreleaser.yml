@@ -31,4 +31,4 @@ changelog:
       - '^docs:'
       - '^test:'
 env_files:
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  GITHUB_TOKEN: ${{ secrets.GO_RELEASER_KEY }}
