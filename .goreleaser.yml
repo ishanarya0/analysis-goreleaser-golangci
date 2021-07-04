@@ -31,4 +31,4 @@ changelog:
       - '^docs:'
       - '^test:'
 env_files:
-  github_token: "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"
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
