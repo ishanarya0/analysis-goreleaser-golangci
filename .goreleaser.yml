@@ -31,5 +31,4 @@ changelog:
       - '^docs:'
       - '^test:'
 env_files:
-  # use only one or release will fail!
-  github_token: ""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""
+  github_token: "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"
