@@ -30,5 +30,3 @@ changelog:
     exclude:
       - '^docs:'
       - '^test:'
-env_files:
-  GITHUB_TOKEN: ${{ secrets.GO_RELEASER_KEY }}
